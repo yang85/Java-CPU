@@ -1,0 +1,102 @@
+//generates 5 numbers, displaying iterator with spaces
+25 	// X, iterator = 1
+15 	// X>AC
+9 	// display 
+1
+	//space
+1	
+32
+9
+2	
+
+8	// Get num1
+9	// displays value
+1
+	//nextline
+1	
+10
+9
+2
+
+25 	// X, iterator = 2
+15 	// X>AC
+9 	// display 
+1
+	//space
+1	
+32
+9
+2	
+
+8	// Get num2
+9	// displays value
+1
+	//nextline
+1	
+10
+9
+2
+
+
+25 	// X, iterator = 3
+15 	// X>AC
+9 	// display 
+1
+	//space
+1	
+32
+9
+2	
+
+8	// Get num3
+9	// displays value
+1
+	//nextline
+1
+10
+9
+2
+
+
+25 	// X, iterator = 4
+15 	// X>AC
+9 	// display 
+1
+	//space
+1	
+32
+9
+2	
+
+8	// Get num4
+9	// displays value
+1
+	//nextline
+1	
+10
+9
+2
+
+
+25 	// X, iterator = 5
+15 	// X>AC
+9 	// display 
+1
+	//space
+1	
+32
+9
+2	
+
+8	// Get num5
+9	// displays value
+1
+	//nextline
+1	
+10
+9
+2
+
+50	//end of code
+.1000
+30
