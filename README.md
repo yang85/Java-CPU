@@ -1,6 +1,5 @@
 Java CPU  
 =======================================================  
-This is a digital project used for UTD CS4348  
 This is a project simulating how a CPU processes a list of instructions  
 List/Pre-decided instructions are hard-coded into the codes  
 
